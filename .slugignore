@@ -5,3 +5,4 @@ kaggle.json
 __pycache__/
 *.pkl
 *.h5
+outputs/v1
