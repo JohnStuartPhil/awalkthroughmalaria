@@ -7,3 +7,5 @@ kaggle.json
 __pycache__/
 *.pkl
 *.h5
+outputs/v1/malaria_detector_model.h5
+outputs/v1/evaluation.pkl
