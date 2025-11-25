@@ -5,3 +5,4 @@ kaggle.json
 __pycache__/
 *.pkl
 *.h5
+tensorflow-cpu==2.16.1
