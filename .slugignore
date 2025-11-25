@@ -1,8 +1,6 @@
-inputs/malaria_dataset/cell_images/test
-inputs/malaria_dataset/cell_images/train
+inputs/malaria_dataset/cell_images/
 kaggle.json
 *.ipynb
 __pycache__/
 *.pkl
 *.h5
-outputs/v1
