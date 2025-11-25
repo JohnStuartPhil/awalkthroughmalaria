@@ -3,9 +3,15 @@ inputs/malaria_dataset/cell_images/train
 inputs/malaria_dataset/cell_images/Parasitized
 inputs/malaria_dataset/cell_images/Uninfected
 kaggle.json
-*.ipynb
+.ipynb
 __pycache__/
 *.pkl
 *.h5
 outputs/v1/malaria_detector_model.h5
 outputs/v1/evaluation.pkl
+jupyter_notebooks/01 - DataCollection.ipynb
+jupyter_notebooks/02 - DataVisualization.ipynb
+jupyter_notebooks/03 - Modelling and Evaluating.
+src/__pycache__
+app_pages/__pycache__
+machine_learning/__pycache__
